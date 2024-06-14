@@ -1,6 +1,6 @@
 # Flutter Counter
 
-In the following tutorial, we’re going to build a Counter in Flutter using the Bloc library.
+Counter in Flutter using the Bloc library.
 
 ## Key Topics
 
